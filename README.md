@@ -7,9 +7,10 @@
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Windows için:
-```cd kodluyoruzilkrepo
-git init```
+`cd kodluyoruzilkrepo
+git init`
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
+
