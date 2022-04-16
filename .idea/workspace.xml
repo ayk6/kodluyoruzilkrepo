@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7c73eab-ba46-458a-a258-c1ae4f0e9775" name="Changes" comment="" />
+    <list default="true" id="a7c73eab-ba46-458a-a258-c1ae4f0e9775" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/veri alg. ödev/binary search tree.txt" beforeDir="false" afterPath="$PROJECT_DIR$/kd/binary search tree.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/veri alg. ödev/insertion sort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/kd/insertion sort.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/veri alg. ödev/merge sort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/kd/merge sort.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +25,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kodluyoruz-frontend-101-egitimi" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,5 +38,16 @@
       <updated>1648921008241</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
